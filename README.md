@@ -13,7 +13,7 @@ how the fuck -Crow
 
 ## LIVESHADER?????? - Zyflx
 ## MARU WHAT
-## The 7 HOT fucking People in the Liveshader:
+## The 8 HOT fucking People in the Liveshader:
 ### CrowPlexus
  - Had idea
  - Hosted Liveshare
@@ -41,3 +41,6 @@ how the fuck -Crow
  - i love men
  - say gex
  - https://twitter.com/sirv01d
+### BlueColorsin
+ - yeah
+ - https://twitter.com/BlueColorsin
