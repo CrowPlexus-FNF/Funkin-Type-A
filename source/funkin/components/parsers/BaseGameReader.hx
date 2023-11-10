@@ -1,17 +1,9 @@
 package funkin.components.parsers;
 
-// WHAT IN THE ACTUAL FUCK IS THIS SHIT
-// HUH????  a little trolling
-typedef YES = true;
-typedef NO = false; // dont mind us :3
-typedef MAYBE = 0.5;
-// i love men
 /**
  * Reads base game charts and converts to the n chart format
  * @author SrtHero278
 **/
-// CHAOS ENGINE BITC LETTS FUCKING GO BITCH
-// YEAHHHHHH
 class BaseGameReader {
     // :3 // nuh uh
     // :33

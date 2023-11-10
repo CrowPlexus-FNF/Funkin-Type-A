@@ -2,8 +2,9 @@ package funkin.states;
 
 import flixel.FlxCamera;
 import flixel.FlxState;
+
 import funkin.gameplay.*;
-import funkin.gameplay.ui.HealthIcon;
+import funkin.ui.HealthIcon;
 import funkin.components.Conductor.IBeatContainer;
 
 class PlayState extends FlxState implements IBeatContainer {
@@ -29,12 +30,9 @@ class PlayState extends FlxState implements IBeatContainer {
         add(bf = new Character("bf"));
         add(dad = new Character("dad"));
         add(gf = new Character("gf"));
-        
+
         add(playField = new PlayField());
         playField.loadSong(song, diff);
-        
-        // this would go in playfield i think, its the hud class
-        
 
         gameCam = FlxG.camera;
         gameCam.bgColor.alpha = 0;

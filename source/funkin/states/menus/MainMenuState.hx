@@ -1,5 +1,6 @@
 package funkin.states.menus;
 
+import funkin.components.Conductor;
 import funkin.components.Conductor.IBeatContainer;
 import flixel.FlxSprite;
 import flixel.group.FlxGroup.FlxTypedGroup;
